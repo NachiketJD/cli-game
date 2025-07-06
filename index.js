@@ -24,3 +24,5 @@ async function welcome() {
     3. Have fun!
     `);
 }
+
+await welcome();
