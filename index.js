@@ -8,3 +8,5 @@ import chalkAnimation from 'chalk-animation';
 import { createSpinner } from 'nanospinner';
 
 console.log(chalk.bgGreen('HElloWorld!'));
+
+let playerName ;
